@@ -9,89 +9,89 @@ TimeBodyAccelerometerAsMeanOfY \
 TimeBodyAccelerometerAsMeanOfZ    \
 TimeBodyAccelerometerAsStandardDeviationOfX \
 TimeBodyAccelerometerAsStandardDeviationOfY \
-TimeBodyAccelerometerAsStandardDeviationOfZ
-TimeGravityAccelerometerAsMeanOfX                      
-TimeGravityAccelerometerAsMeanOfY                     
-TimeGravityAccelerometerAsMeanOfZ                   
-TimeGravityAccelerometerAsStandardDeviationOfX         
-TimeGravityAccelerometerAsStandardDeviationOfY         
-TimeGravityAccelerometerAsStandardDeviationOfZ         
-TimeBodyAccelerometerJerkAsMeanOfX                     
-TimeBodyAccelerometerJerkAsMeanOfY                      
-TimeBodyAccelerometerJerkAsMeanOfZ                     
-TimeBodyAccelerometerJerkAsStandardDeviationOfX         
-TimeBodyAccelerometerJerkAsStandardDeviationOfY         
-TimeBodyAccelerometerJerkAsStandardDeviationOfZ        
-TimeBodyGyroscopeAsMeanOfX                               
-TimeBodyGyroscopeAsMeanOfY                              
-TimeBodyGyroscopeAsMeanOfZ                             
-TimeBodyGyroscopeAsStandardDeviationOfX                 
-TimeBodyGyroscopeAsStandardDeviationOfY                
-TimeBodyGyroscopeAsStandardDeviationOfZ                 
-TimeBodyGyroscopeJerkAsMeanOfX                          
-TimeBodyGyroscopeJerkAsMeanOfY                          
-TimeBodyGyroscopeJerkAsMeanOfZ                        
-TimeBodyGyroscopeJerkAsStandardDeviationOfX           
-TimeBodyGyroscopeJerkAsStandardDeviationOfY          
-TimeBodyGyroscopeJerkAsStandardDeviationOfZ            
-TimeBodyAccelerometerMagAsMean                          
-TimeBodyAccelerometerMagAsStandardDeviation            
-TimeGravityAccelerometerMagAsMean                      
-TimeGravityAccelerometerMagAsStandardDeviation        
-TimeBodyAccelerometerJerkMagAsMean                     
-TimeBodyAccelerometerJerkMagAsStandardDeviation        
-TimeBodyGyroscopeMagAsMean                             
-TimeBodyGyroscopeMagAsStandardDeviation                
-TimeBodyGyroscopeJerkMagAsMean                         
-TimeBodyGyroscopeJerkMagAsStandardDeviation            
-FrequencyBodyAccelerometerAsMeanOfX                    
-FrequencyBodyAccelerometerAsMeanOfY                     
-FrequencyBodyAccelerometerAsMeanOfZ                    
-FrequencyBodyAccelerometerAsStandardDeviationOfX      
-FrequencyBodyAccelerometerAsStandardDeviationOfY       
-FrequencyBodyAccelerometerAsStandardDeviationOfZ      
-FrequencyBodyAccelerometerAsMeanFreqOfX                
-FrequencyBodyAccelerometerAsMeanFreqOfY                 
-FrequencyBodyAccelerometerAsMeanFreqOfZ               
-FrequencyBodyAccelerometerJerkAsMeanOfX                
-FrequencyBodyAccelerometerJerkAsMeanOfY                
-FrequencyBodyAccelerometerJerkAsMeanOfZ                 
-FrequencyBodyAccelerometerJerkAsStandardDeviationOfX    
-FrequencyBodyAccelerometerJerkAsStandardDeviationOfY   
-FrequencyBodyAccelerometerJerkAsStandardDeviationOfZ    
-FrequencyBodyAccelerometerJerkAsMeanFreqOfX            
-FrequencyBodyAccelerometerJerkAsMeanFreqOfY            
-FrequencyBodyAccelerometerJerkAsMeanFreqOfZ             
-FrequencyBodyGyroscopeAsMeanOfX                        
-FrequencyBodyGyroscopeAsMeanOfY                        
-FrequencyBodyGyroscopeAsMeanOfZ                        
-FrequencyBodyGyroscopeAsStandardDeviationOfX           
-FrequencyBodyGyroscopeAsStandardDeviationOfY           
-FrequencyBodyGyroscopeAsStandardDeviationOfZ           
-FrequencyBodyGyroscopeAsMeanFreqOfX                    
-FrequencyBodyGyroscopeAsMeanFreqOfY                    
-FrequencyBodyGyroscopeAsMeanFreqOfZ                    
-FrequencyBodyAccelerometerMagAsMean                   
-FrequencyBodyAccelerometerMagAsStandardDeviation       
-FrequencyBodyAccelerometerMagAsMeanFreq                
-FrequencyBodyBodyAccelerometerJerkMagAsMean            
-FrequencyBodyBodyAccelerometerJerkMagAsStandardDeviation
-FrequencyBodyBodyAccelerometerJerkMagAsMeanFreq        
-FrequencyBodyBodyGyroscopeMagAsMean                   
-FrequencyBodyBodyGyroscopeMagAsStandardDeviation        
-FrequencyBodyBodyGyroscopeMagAsMeanFreq                
-FrequencyBodyBodyGyroscopeJerkMagAsMean                 
-FrequencyBodyBodyGyroscopeJerkMagAsStandardDeviation   
-FrequencyBodyBodyGyroscopeJerkMagAsMeanFreq  
+TimeBodyAccelerometerAsStandardDeviationOfZ \
+TimeGravityAccelerometerAsMeanOfX           \
+TimeGravityAccelerometerAsMeanOfY         \
+TimeGravityAccelerometerAsMeanOfZ       \
+TimeGravityAccelerometerAsStandardDeviationOfX         \
+TimeGravityAccelerometerAsStandardDeviationOfY         \
+TimeGravityAccelerometerAsStandardDeviationOfZ         \
+TimeBodyAccelerometerJerkAsMeanOfX                     \
+TimeBodyAccelerometerJerkAsMeanOfY                      \
+TimeBodyAccelerometerJerkAsMeanOfZ                     \
+TimeBodyAccelerometerJerkAsStandardDeviationOfX         \
+TimeBodyAccelerometerJerkAsStandardDeviationOfY         \
+TimeBodyAccelerometerJerkAsStandardDeviationOfZ        \
+TimeBodyGyroscopeAsMeanOfX                               \
+TimeBodyGyroscopeAsMeanOfY                              \
+TimeBodyGyroscopeAsMeanOfZ                             \
+TimeBodyGyroscopeAsStandardDeviationOfX                 \
+TimeBodyGyroscopeAsStandardDeviationOfY                \
+TimeBodyGyroscopeAsStandardDeviationOfZ                 \
+TimeBodyGyroscopeJerkAsMeanOfX                          \
+TimeBodyGyroscopeJerkAsMeanOfY                          \
+TimeBodyGyroscopeJerkAsMeanOfZ                        \
+TimeBodyGyroscopeJerkAsStandardDeviationOfX           \
+TimeBodyGyroscopeJerkAsStandardDeviationOfY          \
+TimeBodyGyroscopeJerkAsStandardDeviationOfZ            \
+TimeBodyAccelerometerMagAsMean                          \
+TimeBodyAccelerometerMagAsStandardDeviation            \
+TimeGravityAccelerometerMagAsMean                      \
+TimeGravityAccelerometerMagAsStandardDeviation        \
+TimeBodyAccelerometerJerkMagAsMean                     \
+TimeBodyAccelerometerJerkMagAsStandardDeviation        \
+TimeBodyGyroscopeMagAsMean                             \
+TimeBodyGyroscopeMagAsStandardDeviation                \
+TimeBodyGyroscopeJerkMagAsMean                         \
+TimeBodyGyroscopeJerkMagAsStandardDeviation            \
+FrequencyBodyAccelerometerAsMeanOfX                    \
+FrequencyBodyAccelerometerAsMeanOfY                     \
+FrequencyBodyAccelerometerAsMeanOfZ                    \
+FrequencyBodyAccelerometerAsStandardDeviationOfX      \
+FrequencyBodyAccelerometerAsStandardDeviationOfY       \
+FrequencyBodyAccelerometerAsStandardDeviationOfZ      \
+FrequencyBodyAccelerometerAsMeanFreqOfX                \
+FrequencyBodyAccelerometerAsMeanFreqOfY                 \
+FrequencyBodyAccelerometerAsMeanFreqOfZ               \
+FrequencyBodyAccelerometerJerkAsMeanOfX                \
+FrequencyBodyAccelerometerJerkAsMeanOfY                \
+FrequencyBodyAccelerometerJerkAsMeanOfZ                 \
+FrequencyBodyAccelerometerJerkAsStandardDeviationOfX    \
+FrequencyBodyAccelerometerJerkAsStandardDeviationOfY   \
+FrequencyBodyAccelerometerJerkAsStandardDeviationOfZ    \
+FrequencyBodyAccelerometerJerkAsMeanFreqOfX            \
+FrequencyBodyAccelerometerJerkAsMeanFreqOfY            \
+FrequencyBodyAccelerometerJerkAsMeanFreqOfZ             \
+FrequencyBodyGyroscopeAsMeanOfX                        \
+FrequencyBodyGyroscopeAsMeanOfY                        \
+FrequencyBodyGyroscopeAsMeanOfZ                        \
+FrequencyBodyGyroscopeAsStandardDeviationOfX           \
+FrequencyBodyGyroscopeAsStandardDeviationOfY           \
+FrequencyBodyGyroscopeAsStandardDeviationOfZ           \
+FrequencyBodyGyroscopeAsMeanFreqOfX                    \
+FrequencyBodyGyroscopeAsMeanFreqOfY                    \
+FrequencyBodyGyroscopeAsMeanFreqOfZ                    \
+FrequencyBodyAccelerometerMagAsMean                   \
+FrequencyBodyAccelerometerMagAsStandardDeviation       \
+FrequencyBodyAccelerometerMagAsMeanFreq                \
+FrequencyBodyBodyAccelerometerJerkMagAsMean            \
+FrequencyBodyBodyAccelerometerJerkMagAsStandardDeviation\
+FrequencyBodyBodyAccelerometerJerkMagAsMeanFreq        \
+FrequencyBodyBodyGyroscopeMagAsMean                   \
+FrequencyBodyBodyGyroscopeMagAsStandardDeviation        \
+FrequencyBodyBodyGyroscopeMagAsMeanFreq                \
+FrequencyBodyBodyGyroscopeJerkMagAsMean                 \
+FrequencyBodyBodyGyroscopeJerkMagAsStandardDeviation   \
+FrequencyBodyBodyGyroscopeJerkMagAsMeanFreq  \
 
 
 
 The summarization of the tidy dataSet calculates the avarage and the standarddeviation of each fariable of the tidy dataset above. the observations are grouped by subjects and activities.
 This are the features.
 
-  [1] "Activity"                                                     
-  [2] "Subject"                                                      
-  [3] "TimeBodyAccelerometerAsMeanOfX_sd"                            
+"Activity"                                                     
+"Subject"                                                      
+"TimeBodyAccelerometerAsMeanOfX_sd"                            
   [4] "TimeBodyAccelerometerAsMeanOfY_sd"                            
   [5] "TimeBodyAccelerometerAsMeanOfZ_sd"                            
   [6] "TimeBodyAccelerometerAsStandardDeviationOfX_sd"               
@@ -144,31 +144,31 @@ This are the features.
  [53] "FrequencyBodyAccelerometerJerkAsMeanOfY_sd"                   
  [54] "FrequencyBodyAccelerometerJerkAsMeanOfZ_sd"                   
  [55] "FrequencyBodyAccelerometerJerkAsStandardDeviationOfX_sd"      
- [56] "FrequencyBodyAccelerometerJerkAsStandardDeviationOfY_sd"      
- [57] "FrequencyBodyAccelerometerJerkAsStandardDeviationOfZ_sd"      
- [58] "FrequencyBodyAccelerometerJerkAsMeanFreqOfX_sd"               
- [59] "FrequencyBodyAccelerometerJerkAsMeanFreqOfY_sd"               
- [60] "FrequencyBodyAccelerometerJerkAsMeanFreqOfZ_sd"               
- [61] "FrequencyBodyGyroscopeAsMeanOfX_sd"                           
- [62] "FrequencyBodyGyroscopeAsMeanOfY_sd"                           
- [63] "FrequencyBodyGyroscopeAsMeanOfZ_sd"                           
- [64] "FrequencyBodyGyroscopeAsStandardDeviationOfX_sd"              
- [65] "FrequencyBodyGyroscopeAsStandardDeviationOfY_sd"              
- [66] "FrequencyBodyGyroscopeAsStandardDeviationOfZ_sd"              
- [67] "FrequencyBodyGyroscopeAsMeanFreqOfX_sd"                       
- [68] "FrequencyBodyGyroscopeAsMeanFreqOfY_sd"                       
- [69] "FrequencyBodyGyroscopeAsMeanFreqOfZ_sd"                       
- [70] "FrequencyBodyAccelerometerMagAsMean_sd"                       
- [71] "FrequencyBodyAccelerometerMagAsStandardDeviation_sd"          
- [72] "FrequencyBodyAccelerometerMagAsMeanFreq_sd"                   
- [73] "FrequencyBodyBodyAccelerometerJerkMagAsMean_sd"               
- [74] "FrequencyBodyBodyAccelerometerJerkMagAsStandardDeviation_sd"  
- [75] "FrequencyBodyBodyAccelerometerJerkMagAsMeanFreq_sd"           
- [76] "FrequencyBodyBodyGyroscopeMagAsMean_sd"                       
- [77] "FrequencyBodyBodyGyroscopeMagAsStandardDeviation_sd"          
- [78] "FrequencyBodyBodyGyroscopeMagAsMeanFreq_sd"                   
- [79] "FrequencyBodyBodyGyroscopeJerkMagAsMean_sd"                   
- [80] "FrequencyBodyBodyGyroscopeJerkMagAsStandardDeviation_sd"      
+"FrequencyBodyAccelerometerJerkAsStandardDeviationOfY_sd"      
+"FrequencyBodyAccelerometerJerkAsStandardDeviationOfZ_sd"      
+"FrequencyBodyAccelerometerJerkAsMeanFreqOfX_sd"               
+"FrequencyBodyAccelerometerJerkAsMeanFreqOfY_sd"               
+"FrequencyBodyAccelerometerJerkAsMeanFreqOfZ_sd"               
+"FrequencyBodyGyroscopeAsMeanOfX_sd"                           
+"FrequencyBodyGyroscopeAsMeanOfY_sd"                           
+"FrequencyBodyGyroscopeAsMeanOfZ_sd"                           
+"FrequencyBodyGyroscopeAsStandardDeviationOfX_sd"              
+"FrequencyBodyGyroscopeAsStandardDeviationOfY_sd"              
+"FrequencyBodyGyroscopeAsStandardDeviationOfZ_sd"              
+"FrequencyBodyGyroscopeAsMeanFreqOfX_sd"                       
+"FrequencyBodyGyroscopeAsMeanFreqOfY_sd"                       
+"FrequencyBodyGyroscopeAsMeanFreqOfZ_sd"                       
+"FrequencyBodyAccelerometerMagAsMean_sd"                       
+"FrequencyBodyAccelerometerMagAsStandardDeviation_sd"          
+"FrequencyBodyAccelerometerMagAsMeanFreq_sd"                   
+"FrequencyBodyBodyAccelerometerJerkMagAsMean_sd"               
+"FrequencyBodyBodyAccelerometerJerkMagAsStandardDeviation_sd"  
+"FrequencyBodyBodyAccelerometerJerkMagAsMeanFreq_sd"           
+"FrequencyBodyBodyGyroscopeMagAsMean_sd"                       
+"FrequencyBodyBodyGyroscopeMagAsStandardDeviation_sd"          
+"FrequencyBodyBodyGyroscopeMagAsMeanFreq_sd"                   
+"FrequencyBodyBodyGyroscopeJerkMagAsMean_sd"                   
+"FrequencyBodyBodyGyroscopeJerkMagAsStandardDeviation_sd"      
  [81] "FrequencyBodyBodyGyroscopeJerkMagAsMeanFreq_sd"               
  [82] "TimeBodyAccelerometerAsMeanOfX_mean"                          
  [83] "TimeBodyAccelerometerAsMeanOfY_mean"                          
@@ -222,32 +222,32 @@ This are the features.
 [131] "FrequencyBodyAccelerometerJerkAsMeanOfX_mean"                 
 [132] "FrequencyBodyAccelerometerJerkAsMeanOfY_mean"                 
 [133] "FrequencyBodyAccelerometerJerkAsMeanOfZ_mean"                 
-[134] "FrequencyBodyAccelerometerJerkAsStandardDeviationOfX_mean"    
-[135] "FrequencyBodyAccelerometerJerkAsStandardDeviationOfY_mean"    
-[136] "FrequencyBodyAccelerometerJerkAsStandardDeviationOfZ_mean"    
-[137] "FrequencyBodyAccelerometerJerkAsMeanFreqOfX_mean"             
-[138] "FrequencyBodyAccelerometerJerkAsMeanFreqOfY_mean"             
-[139] "FrequencyBodyAccelerometerJerkAsMeanFreqOfZ_mean"             
-[140] "FrequencyBodyGyroscopeAsMeanOfX_mean"                         
-[141] "FrequencyBodyGyroscopeAsMeanOfY_mean"                         
-[142] "FrequencyBodyGyroscopeAsMeanOfZ_mean"                         
-[143] "FrequencyBodyGyroscopeAsStandardDeviationOfX_mean"            
-[144] "FrequencyBodyGyroscopeAsStandardDeviationOfY_mean"            
-[145] "FrequencyBodyGyroscopeAsStandardDeviationOfZ_mean"            
-[146] "FrequencyBodyGyroscopeAsMeanFreqOfX_mean"                     
-[147] "FrequencyBodyGyroscopeAsMeanFreqOfY_mean"                     
-[148] "FrequencyBodyGyroscopeAsMeanFreqOfZ_mean"                     
-[149] "FrequencyBodyAccelerometerMagAsMean_mean"                     
-[150] "FrequencyBodyAccelerometerMagAsStandardDeviation_mean"        
-[151] "FrequencyBodyAccelerometerMagAsMeanFreq_mean"                 
-[152] "FrequencyBodyBodyAccelerometerJerkMagAsMean_mean"             
-[153] "FrequencyBodyBodyAccelerometerJerkMagAsStandardDeviation_mean"
-[154] "FrequencyBodyBodyAccelerometerJerkMagAsMeanFreq_mean"         
-[155] "FrequencyBodyBodyGyroscopeMagAsMean_mean"                     
-[156] "FrequencyBodyBodyGyroscopeMagAsStandardDeviation_mean"        
-[157] "FrequencyBodyBodyGyroscopeMagAsMeanFreq_mean"                 
-[158] "FrequencyBodyBodyGyroscopeJerkMagAsMean_mean"                 
-[159] "FrequencyBodyBodyGyroscopeJerkMagAsStandardDeviation_mean"    
-[160] "FrequencyBodyBodyGyroscopeJerkMagAsMeanFreq_mean"
+"FrequencyBodyAccelerometerJerkAsStandardDeviationOfX_mean"    
+"FrequencyBodyAccelerometerJerkAsStandardDeviationOfY_mean"    
+"FrequencyBodyAccelerometerJerkAsStandardDeviationOfZ_mean"    
+"FrequencyBodyAccelerometerJerkAsMeanFreqOfX_mean"             
+"FrequencyBodyAccelerometerJerkAsMeanFreqOfY_mean"             
+"FrequencyBodyAccelerometerJerkAsMeanFreqOfZ_mean"             
+"FrequencyBodyGyroscopeAsMeanOfX_mean"                         
+"FrequencyBodyGyroscopeAsMeanOfY_mean"                         
+"FrequencyBodyGyroscopeAsMeanOfZ_mean"                         
+"FrequencyBodyGyroscopeAsStandardDeviationOfX_mean"            
+"FrequencyBodyGyroscopeAsStandardDeviationOfY_mean"            
+"FrequencyBodyGyroscopeAsStandardDeviationOfZ_mean"            
+"FrequencyBodyGyroscopeAsMeanFreqOfX_mean"                     
+"FrequencyBodyGyroscopeAsMeanFreqOfY_mean"                     
+"FrequencyBodyGyroscopeAsMeanFreqOfZ_mean"                     
+"FrequencyBodyAccelerometerMagAsMean_mean"                     
+"FrequencyBodyAccelerometerMagAsStandardDeviation_mean"        
+"FrequencyBodyAccelerometerMagAsMeanFreq_mean"                 
+"FrequencyBodyBodyAccelerometerJerkMagAsMean_mean"             
+"FrequencyBodyBodyAccelerometerJerkMagAsStandardDeviation_mean"
+"FrequencyBodyBodyAccelerometerJerkMagAsMeanFreq_mean"         
+"FrequencyBodyBodyGyroscopeMagAsMean_mean"                     
+"FrequencyBodyBodyGyroscopeMagAsStandardDeviation_mean"        
+"FrequencyBodyBodyGyroscopeMagAsMeanFreq_mean"                 
+"FrequencyBodyBodyGyroscopeJerkMagAsMean_mean"                 
+"FrequencyBodyBodyGyroscopeJerkMagAsStandardDeviation_mean"    
+"FrequencyBodyBodyGyroscopeJerkMagAsMeanFreq_mean"
 
 
