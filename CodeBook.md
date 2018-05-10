@@ -2,31 +2,6 @@
 
 The following list contains all feautures af the tidy DataSet. The features were extracted from "Human Activity Recognition Using Smartphones Dataset" and only represent measurments of mean and standard deviation values. The observations werde identify by a subject and an activity.   
 
-<<<<<<< HEAD
-Activity  (char {"WALKING", "WALKINGUPSTAIRS", "WALKINGDOWNSTAIRS", "SITTING", "STANDING", "LAYING" } 
-Subject   (int {1:30})                                             
-TimeBodyAccelerometerAsMeanOfX                
-TimeBodyAccelerometerAsMeanOfY                
-TimeBodyAccelerometerAsMeanOfZ    
-TimeBodyAccelerometerAsStandardDeviationOfX
-TimeBodyAccelerometerAsStandardDeviationOfY
-TimeBodyAccelerometerAsStandardDeviationOfZ
-TimeGravityAccelerometerAsMeanOfX                      
-TimeGravityAccelerometerAsMeanOfY                     
-TimeGravityAccelerometerAsMeanOfZ                   
-TimeGravityAccelerometerAsStandardDeviationOfX         
-TimeGravityAccelerometerAsStandardDeviationOfY         
-TimeGravityAccelerometerAsStandardDeviationOfZ         
-TimeBodyAccelerometerJerkAsMeanOfX                     
-TimeBodyAccelerometerJerkAsMeanOfY                      
-TimeBodyAccelerometerJerkAsMeanOfZ                     
-TimeBodyAccelerometerJerkAsStandardDeviationOfX         
-TimeBodyAccelerometerJerkAsStandardDeviationOfY         
-TimeBodyAccelerometerJerkAsStandardDeviationOfZ        
-TimeBodyGyroscopeAsMeanOfX                               
-TimeBodyGyroscopeAsMeanOfY                              
-TimeBodyGyroscopeAsMeanOfZ                             
-=======
 Activity  (char {"WALKING", "WALKINGUPSTAIRS", "WALKINGDOWNSTAIRS", "SITTING", "STANDING", "LAYING" } \n
 Subject   (int {1:30})                                             \n
 TimeBodyAccelerometerAsMeanOfX                
@@ -50,7 +25,6 @@ TimeBodyAccelerometerJerkAsStandardDeviationOfZ      
 TimeBodyGyroscopeAsMeanOfX                               
 TimeBodyGyroscopeAsMeanOfY                              
 TimeBodyGyroscopeAsMeanOfZ                             
->>>>>>> 6089af5d92b0b325ced828ab6939e79b9d526f02
 TimeBodyGyroscopeAsStandardDeviationOfX                 
 TimeBodyGyroscopeAsStandardDeviationOfY                
 TimeBodyGyroscopeAsStandardDeviationOfZ                 
