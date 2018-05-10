@@ -4,12 +4,12 @@ The following list contains all feautures af the tidy DataSet. The features were
 
 Activity  (char {"WALKING", "WALKINGUPSTAIRS", "WALKINGDOWNSTAIRS", "SITTING", "STANDING", "LAYING" }
 Subject   (int {1:30})                                             
-TimeBodyAccelerometerAsMeanOfX                            
-TimeBodyAccelerometerAsMeanOfY                              
+TimeBodyAccelerometerAsMeanOfX                
+TimeBodyAccelerometerAsMeanOfY                
 TimeBodyAccelerometerAsMeanOfZ    
-TimeBodyAccelerometerAsStandardDeviationOfX   
-TimeBodyAccelerometerAsStandardDeviationOfY          
-TimeBodyAccelerometerAsStandardDeviationOfZ            
+TimeBodyAccelerometerAsStandardDeviationOfX
+TimeBodyAccelerometerAsStandardDeviationOfY
+TimeBodyAccelerometerAsStandardDeviationOfZ
 TimeGravityAccelerometerAsMeanOfX                      
 TimeGravityAccelerometerAsMeanOfY                     
 TimeGravityAccelerometerAsMeanOfZ                   
