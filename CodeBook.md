@@ -1,30 +1,30 @@
-ï»¿## CodeBook
+## CodeBook
 
 The following list contains all feautures af the tidy DataSet. The features were extracted from "Human Activity Recognition Using Smartphones Dataset" and only represent measurments of mean and standard deviation values. The observations werde identify by a subject and an activity.   
 
-Activity  (char {"WALKING", "WALKINGUPSTAIRS", "WALKINGDOWNSTAIRS", "SITTING", "STANDING", "LAYING" } 
-Subject   (int {1:30})                                             
-TimeBodyAccelerometerAsMeanOfX Â  Â   Â  Â  Â  Â  Â  
-TimeBodyAccelerometerAsMeanOfY Â  Â  Â  Â  Â  Â  Â  Â 
-TimeBodyAccelerometerAsMeanOfZ Â  Â 
+Activity  (char {"WALKING", "WALKINGUPSTAIRS", "WALKINGDOWNSTAIRS", "SITTING", "STANDING", "LAYING" } \
+Subject   (int {1:30})                                  \           
+TimeBodyAccelerometerAsMeanOfX                
+TimeBodyAccelerometerAsMeanOfY                
+TimeBodyAccelerometerAsMeanOfZ    
 TimeBodyAccelerometerAsStandardDeviationOfX
 TimeBodyAccelerometerAsStandardDeviationOfY
 TimeBodyAccelerometerAsStandardDeviationOfZ
-TimeGravityAccelerometerAsMeanOfX Â  Â   Â  Â  Â  Â  Â  Â  Â  Â  
-TimeGravityAccelerometerAsMeanOfY Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  
-TimeGravityAccelerometerAsMeanOfZ Â  Â  Â  Â  Â  Â  Â  Â  Â  
-TimeGravityAccelerometerAsStandardDeviationOfX Â Â  Â  Â  Â 
-TimeGravityAccelerometerAsStandardDeviationOfY Â   Â  Â  Â 
-TimeGravityAccelerometerAsStandardDeviationOfZ Â   Â  Â  Â 
-TimeBodyAccelerometerJerkAsMeanOfX Â  Â Â  Â  Â  Â  Â  Â  Â  Â  Â 
-TimeBodyAccelerometerJerkAsMeanOfY Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
-TimeBodyAccelerometerJerkAsMeanOfZ Â   Â  Â  Â  Â  Â  Â  Â  Â  Â 
-TimeBodyAccelerometerJerkAsStandardDeviationOfX Â  Â  Â    
-TimeBodyAccelerometerJerkAsStandardDeviationOfY Â  Â  Â   Â 
-TimeBodyAccelerometerJerkAsStandardDeviationOfZ Â  Â  Â   
-TimeBodyGyroscopeAsMeanOfX Â  Â  Â   Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â 
-TimeBodyGyroscopeAsMeanOfY Â  Â  Â   Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  
-TimeBodyGyroscopeAsMeanOfZ Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  Â  
+TimeGravityAccelerometerAsMeanOfX                      
+TimeGravityAccelerometerAsMeanOfY                     
+TimeGravityAccelerometerAsMeanOfZ                   
+TimeGravityAccelerometerAsStandardDeviationOfX         
+TimeGravityAccelerometerAsStandardDeviationOfY         
+TimeGravityAccelerometerAsStandardDeviationOfZ         
+TimeBodyAccelerometerJerkAsMeanOfX                     
+TimeBodyAccelerometerJerkAsMeanOfY                      
+TimeBodyAccelerometerJerkAsMeanOfZ                     
+TimeBodyAccelerometerJerkAsStandardDeviationOfX         
+TimeBodyAccelerometerJerkAsStandardDeviationOfY         
+TimeBodyAccelerometerJerkAsStandardDeviationOfZ        
+TimeBodyGyroscopeAsMeanOfX                               
+TimeBodyGyroscopeAsMeanOfY                              
+TimeBodyGyroscopeAsMeanOfZ                             
 TimeBodyGyroscopeAsStandardDeviationOfX                 
 TimeBodyGyroscopeAsStandardDeviationOfY                
 TimeBodyGyroscopeAsStandardDeviationOfZ                 
