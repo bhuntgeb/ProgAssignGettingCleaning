@@ -1,15 +1,15 @@
 #Read Test&Train-Files into DataFrames. That includes Subject-Id and Activity-Id
-subject_train_df<-read.table ("D://Data//UCI HAR Dataset//train//subject_train.txt")
-X_train_df<-read.table ("D://Data//UCI HAR Dataset//train//X_train.txt")
-Y_train_df<-read.table ("D://Data//UCI HAR Dataset//train//Y_train.txt")
+subject_train_df<-read.table ("UCI HAR Dataset//train//subject_train.txt")
+X_train_df<-read.table ("UCI HAR Dataset//train//X_train.txt")
+Y_train_df<-read.table ("UCI HAR Dataset//train//Y_train.txt")
 
-subject_test_df<-read.table ("D://Data//UCI HAR Dataset//test//subject_test.txt")
-X_test_df<-read.table ("D://Data//UCI HAR Dataset//test//X_test.txt")
-Y_test_df<-read.table ("D://Data//UCI HAR Dataset//test//Y_test.txt")
+subject_test_df<-read.table ("UCI HAR Dataset//test//subject_test.txt")
+X_test_df<-read.table ("UCI HAR Dataset//test//X_test.txt")
+Y_test_df<-read.table ("UCI HAR Dataset//test//Y_test.txt")
 
 # Read Activity Labels and Varianble-Names
-activity_labels_df<-read.table ("D://Data//UCI HAR Dataset//activity_labels.txt")
-features_df<-read.table ("D://Data//UCI HAR Dataset//features.txt")
+activity_labels_df<-read.table ("UCI HAR Dataset//activity_labels.txt")
+features_df<-read.table ("UCI HAR Dataset//features.txt")
 
 # Add Variable Names to each dataframe
 names(X_train_df)<-features_df$V2
