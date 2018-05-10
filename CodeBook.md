@@ -248,8 +248,6 @@ This are the features.
 [157] "FrequencyBodyBodyGyroscopeMagAsMeanFreq_mean"                 
 [158] "FrequencyBodyBodyGyroscopeJerkMagAsMean_mean"                 
 [159] "FrequencyBodyBodyGyroscopeJerkMagAsStandardDeviation_mean"    
-<<<<<<< HEAD
 [160] "FrequencyBodyBodyGyroscopeJerkMagAsMeanFreq_mean"
-=======
-[160] "FrequencyBodyBodyGyroscopeJerkMagAsMeanFreq_mean"
->>>>>>> 6089af5d92b0b325ced828ab6939e79b9d526f02
+
+
