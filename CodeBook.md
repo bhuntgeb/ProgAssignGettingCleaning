@@ -2,8 +2,8 @@
 
 The following list contains all feautures af the tidy DataSet. The features were extracted from "Human Activity Recognition Using Smartphones Dataset" and only represent measurments of mean and standard deviation values. The observations werde identify by a subject and an activity.   
 
-Activity  (char {"WALKING", "WALKINGUPSTAIRS", "WALKINGDOWNSTAIRS", "SITTING", "STANDING", "LAYING" }
-Subject   (int {1:30})                                             
+Activity  (char {"WALKING", "WALKINGUPSTAIRS", "WALKINGDOWNSTAIRS", "SITTING", "STANDING", "LAYING" } \n
+Subject   (int {1:30})                                             \n
 TimeBodyAccelerometerAsMeanOfX                
 TimeBodyAccelerometerAsMeanOfY                
 TimeBodyAccelerometerAsMeanOfZ    
